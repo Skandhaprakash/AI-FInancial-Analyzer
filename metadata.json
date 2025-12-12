@@ -1,0 +1,5 @@
+{
+  "name": "AI Financial Analyst for investor",
+  "description": "An AI-powered financial dashboard that analyzes 5-year trends, calculates metrics, and uses Gemini to detect anomalies and interpret financial health.",
+  "requestFramePermissions": []
+}
